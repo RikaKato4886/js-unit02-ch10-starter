@@ -32,6 +32,7 @@
     "eslint": "^7.18.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
+    "eslint-watch": "^7.0.0",
     "jest": "^22.4.2",
     "webpack": "^3.10.0",
     "webpack-dev-middleware": "^2.0.4",
